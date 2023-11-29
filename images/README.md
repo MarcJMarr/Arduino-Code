@@ -1,1 +1,1 @@
-
+This project was worked on by me and 3 other members of my EPICS class, I no longer have any of the info such as the diagrams, as my computer suffered a hard drive failure and lost all data. This device used a thermoresistor, lcd display, brushless motor, and powersupply. The overall objective of this device was to detect the temperature of the enviroment that its in and if the temperature gets past a certain threshold it will activate a fan.
